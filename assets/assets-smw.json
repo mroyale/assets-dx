@@ -1,0 +1,14 @@
+{
+	"tileAnim":[
+		{"name": "mysterybox", "startTile": 23, "tiles":[23, 24, 25, 26], "delay": 8},
+		{"name": "lava1", "startTile": 57, "tiles":[57, 58, 59, 60], "delay": 8},
+		{"name": "flipblock", "startTile": 62, "tiles":[62, 63, 64, 65], "delay": 8},
+		{"name": "lava2", "startTile": 126, "tiles":[126, 127, 128, 129], "delay": 8},
+		{"name": "berry", "startTile": 162, "tiles":[162, 163, 164, 163], "delay": 8},
+		{"name": "checkpointlt", "startTile": 182, "tiles":[182, 183, 184, 185], "delay": 8},
+		{"name": "checkpointlb", "startTile": 186, "tiles":[186, 187, 188, 189], "delay": 8},
+		{"name": "checkpointrt", "startTile": 190, "tiles":[190, 191, 192, 193], "delay": 8},
+		{"name": "checkpointrb", "startTile": 194, "tiles":[194, 195, 196, 197], "delay": 8},
+		{"name": "water", "startTile": 198,  "tiles":[198, 213, 212, 211, 210, 209, 208, 207, 206, 205, 204, 203, 202, 201, 200, 199], "delay": 1}
+	]
+}
